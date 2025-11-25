@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Economics Student | Data Enthusiast</h3>
-
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=09anushkasingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
@@ -9,7 +8,6 @@
 - 📫 How to reach me **anushka.singh.9120@gmail.com**
 - ⚡ Fun fact **I love exploring data and learning new tools**
 
-<br>
 
 ## Connect with me:
 <p align="left">
