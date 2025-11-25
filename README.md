@@ -13,14 +13,6 @@
 <br>
  
 
-### 🔍 Interests
-- Data Analysis  
-- Dashboards & Visualization  
-- Business Insights  
-- Forecasting Basics  
-
-### 📫 Contact Me
-- Email: **anushka.singh.9120@gmail.com**
 
 ---
 
