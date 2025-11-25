@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
 </p>
-<br>
 
 ## Languages and Tools:
 <p align="left">
@@ -31,7 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/>
 </p>
-<br>
 
 ## 📊 GitHub Stats:
 <p align="left">
