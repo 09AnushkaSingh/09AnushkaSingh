@@ -37,17 +37,12 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=09anushkasingh&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Loading-success?style=for-the-badge&logo=github)
 
 ## 📈 Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=09anushkasingh&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://img.shields.io/badge/Top_Languages-Python%20%7C%20SQL%20%7C%20Excel-blue?style=for-the-badge)
 
 ## 🔥 Contribution Streak:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09anushkasingh&theme=tokyonight" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=09anushkasingh&theme=tokyonight" />
+
 
