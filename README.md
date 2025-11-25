@@ -1,5 +1,4 @@
 
-<!--
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -69,5 +68,3 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=09AnushkaSingh" alt="09AnushkaSingh" />
 </p>
-
--->
