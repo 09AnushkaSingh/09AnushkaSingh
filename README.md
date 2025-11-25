@@ -43,6 +43,7 @@
 ![Top Languages](https://img.shields.io/badge/Top_Languages-Python%20%7C%20SQL%20%7C%20Excel-blue?style=for-the-badge)
 
 ## 🔥 Contribution Streak:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=09anushkasingh&theme=tokyonight" />
-
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09AnushkaSingh&theme=default" alt="GitHub Streak"/>
+</p>
 
