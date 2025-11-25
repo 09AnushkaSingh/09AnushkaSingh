@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Aspiring Data Analyst | Economics Student | Data Enthusiast</h3>
 
 <br>
 
