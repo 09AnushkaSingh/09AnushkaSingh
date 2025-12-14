@@ -43,5 +43,5 @@
 ## 🔥 Contribution Streak:
 <p align="left">
   <!-- Contribution streak card (live) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09AnushkaSingh&theme=tokyonight" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09AnushkaSingh&theme=dark" alt="Contribution Streak" />
 </p>
