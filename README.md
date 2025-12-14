@@ -40,8 +40,4 @@
   <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20SQL%20%7C%20Excel-blue?style=for-the-badge" alt="Top Languages" />
 </p>
 
-## 🔥 Contribution Streak:
-<p align="left">
-  <!-- Contribution streak card (live) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09AnushkaSingh&theme=dark" alt="Contribution Streak" />
-</p>
+
