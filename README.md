@@ -10,6 +10,9 @@
 
 ## Connect with me:
 <p align="left">
+   <a href="mailto:anushka.singh.9120@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  </a>
 <a href="https://www.linkedin.com/in/anushka-singh-9b3a59211/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
