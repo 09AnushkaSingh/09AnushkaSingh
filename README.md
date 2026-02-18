@@ -13,8 +13,8 @@
 <a href="https://www.linkedin.com/in/anushka-singh-9b3a59211/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/anushka_singh89/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+<a href="https://leetcode.com/u/anushka_singh89/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/leetcode-new.png" alt="LeetCode"/>
 </a>
 </p>
 
