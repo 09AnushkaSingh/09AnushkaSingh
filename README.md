@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/anushka_singh89/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/leetcode-new.png" alt="LeetCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" height="48"/>
 </a>
 </p>
 
